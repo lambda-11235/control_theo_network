@@ -2,6 +2,9 @@ baseURL = "https://lambda-11235.github.io/control_theo_network/"
 languageCode = "en-us"
 title = "Control Theoritic Designs for Network Congestion"
 
+# This must be the case, because we have a base URL of https://site/sub/
+canonifyURLs = true
+
 theme = "zen"
 
 [params]
