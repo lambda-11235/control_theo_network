@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Control Theoritic Designs for Network Congestion"
+
+theme = "zen"
+
+[params]
+contact = "tflynn@ucdavis.edu"
+copyright = "\u00a9 U.C. Davis"
+logo = false
+sidebar = true
