@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Control Theoritic Designs for Network Congestion</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Control Theoritic Designs for Network Congestion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>People</title>
+      <link>http://example.org/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/people/</guid>
+      <description>
+
+&lt;h2 id=&#34;taran-lynn&#34;&gt;Taran Lynn&lt;/h2&gt;
+
+&lt;p&gt;Contact: tflynn@ucdavis.edu&lt;br /&gt;
+Personal Site: &lt;a href=&#34;https://github.com/lambda-11235&#34;&gt;https://github.com/lambda-11235&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;dipak-ghosal&#34;&gt;Dipak Ghosal&lt;/h2&gt;
+
+&lt;p&gt;Contact: dghosal@ucdavis.edu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://example.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;model-predictive-congestion-control&#34;&gt;Model Predictive Congestion Control&lt;/h2&gt;
+
+&lt;p&gt;This project aims to investigate how to apply model predictive control theory
+to TCP based congestion control.
+Research has focused on a delay based approach using rate pacing.
+Some results have been presented at the
+&lt;a href=&#34;http://buffer-workshop.stanford.edu/&#34;&gt;2019 Workshop on Buffer Sizing&lt;/a&gt;.
+These results and more can also be found in an arXiv paper (1).&lt;/p&gt;
+
+&lt;p&gt;(1): &lt;a href=&#34;https://arxiv.org/abs/2002.09825&#34;&gt;https://arxiv.org/abs/2002.09825&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://example.org/code/mpcc.tar.gz&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
