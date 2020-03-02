@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://lambda-11235.github.io/control_theo_network/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lambda-11235.github.io/control_theo_network/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/people/</loc>
+    <loc>https://lambda-11235.github.io/control_theo_network/people/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://lambda-11235.github.io/control_theo_network/projects/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lambda-11235.github.io/control_theo_network/tags/</loc>
   </url>
   
 </urlset>
