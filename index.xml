@@ -22,7 +22,8 @@ Personal Site: &lt;a href=&#34;https://github.com/lambda-11235&#34;&gt;https://g
 
 &lt;h2 id=&#34;dipak-ghosal&#34;&gt;Dipak Ghosal&lt;/h2&gt;
 
-&lt;p&gt;Contact: dghosal@ucdavis.edu&lt;/p&gt;
+&lt;p&gt;Contact: dghosal@ucdavis.edu&lt;br /&gt;
+Personal Site: &lt;a href=&#34;https://dipakghosal.cs.ucdavis.edu/&#34;&gt;https://dipakghosal.cs.ucdavis.edu/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -40,11 +41,14 @@ to TCP based congestion control.
 Research has focused on a delay based approach using rate pacing.
 Some results have been presented at the
 &lt;a href=&#34;http://buffer-workshop.stanford.edu/&#34;&gt;2019 Workshop on Buffer Sizing&lt;/a&gt;.
-These results and more can also be found in an arXiv paper (1).&lt;/p&gt;
+These results and more can also be found in an arXiv paper (1).
+The algorithm has been implemented as a kernel module (2).
+It has also been tested using an event based simulator.&lt;/p&gt;
 
 &lt;p&gt;(1): &lt;a href=&#34;https://arxiv.org/abs/2002.09825&#34;&gt;https://arxiv.org/abs/2002.09825&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://lambda-11235.github.io/control_theo_network/code/mpcc.tar.gz&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(2): &lt;a href=&#34;https://lambda-11235.github.io/control_theo_network/code/mpcc.tar.gz&#34;&gt;Here&amp;rsquo;s the code&lt;/a&gt; for both the kernel module
+and event based simulator.&lt;/p&gt;
 </description>
     </item>
     
